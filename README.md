@@ -123,13 +123,13 @@ Tela de vitória.
 
 Tela de derrota.
 
-## 4. Ferramentas, bibliotecas e frameworks utilizados:
+## 4. Ferramentas, bibliotecas e frameworks utilizados
 
-Python 3.
-Biblioteca Pygame: Biblioteca principal utilizada para a construção do jogo, responsável pela criação da janela e do loop principal, pela captura de eventos de teclado e mouse, pela renderização das imagens e formas geométricas (mapas, sprites, HUD) e pelo gerenciamento das entidades do jogo através de pygame.Rect para colisões e pygame.math.Vector2 para a movimentação do vilão.
-Git e GitHub: Usados para versionamento de código e organização do desenvolvimento em branches por funcionalidade (ex: feat/coletaveis-no-mapa, feat/funcionalidades-basicas), mantendo o histórico do projeto organizado.
-VS Code: Editor de código utilizado para o desenvolvimento do projeto, facilitando a navegação entre os múltiplos módulos (personagens, objetos, mapas, colisões) e a identificação de erros de sintaxe durante a codificação.
-Imagens dos mapas e sprites do jogador/vilão desenhadas especificamente para representar os ambientes reais do Centro de Informática.
+- **Python 3.**
+- **Biblioteca Pygame**: Biblioteca principal utilizada para a construção do jogo, responsável pela criação da janela e do loop principal, pela captura de eventos de teclado e mouse, pela renderização das imagens e formas geométricas (mapas, sprites, HUD) e pelo gerenciamento das entidades do jogo através de `pygame.Rect` para colisões e `pygame.math.Vector2` para a movimentação do vilão.
+- **Git e GitHub**: Usados para versionamento de código e organização do desenvolvimento em branches por funcionalidade (ex: `feat/coletaveis-no-mapa`, `feat/funcionalidades-basicas`), mantendo o histórico do projeto organizado.
+- **VS Code**: Editor de código utilizado para o desenvolvimento do projeto, facilitando a navegação entre os múltiplos módulos (personagens, objetos, mapas, colisões) e a identificação de erros de sintaxe durante a codificação.
+- Imagens dos mapas e sprites do jogador/vilão desenhadas especificamente para representar os ambientes reais do Centro de Informática.
 
 ## 5. Conceitos de Programação utilizados:
 
